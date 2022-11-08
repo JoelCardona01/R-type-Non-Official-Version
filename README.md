@@ -1,7 +1,7 @@
 # R-type (Non Official Version)
 Videogame based on R-type of Sega Master System developed by two Informatics Engineering students with C++ and OpenGL.
 
-It is our first time developing videogames. Hope you have fun! :D
+It is our first time developing videogames. Hope you have fun and we would be pleasured if you give us some feedback! :D
 
 ## How to start the game
 You just need to clone the repository on your **Windows** computer and execute the R-type.exe application!
